@@ -12,3 +12,5 @@
 * 🐍Data Projects
 * ☕️Codes
 * 📴 Apps
+
+See my featured work here! 👇
