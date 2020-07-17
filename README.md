@@ -9,7 +9,7 @@
 #### Some projects and code links
 
 * 📚[Learning notes](https://github.com/eocode?tab=repositories&q=notes&type=&language=)
-* 💻Software Engineer projects. [Python](https://github.com/eocode?tab=repositories&q=software-engineering+python&type=&language=) | [JS](https://github.com/eocode?tab=repositories&q=software-engineering+js&type=&language=) | [Scala](https://github.com/eocode?tab=repositories&q=software-engineering+scala&type=&language=) | [Java](https://github.com/eocode?tab=repositories&q=software-engineering+java&type=&language=) | [Dart](https://github.com/eocode?tab=repositories&q=software-engineering+java&type=&language=)
+* 💻Software Engineer projects. [Python](https://github.com/eocode?tab=repositories&q=software-engineering+python&type=&language=) | [JS](https://github.com/eocode?tab=repositories&q=software-engineering+js&type=&language=) | [Scala](https://github.com/eocode?tab=repositories&q=software-engineering+scala&type=&language=) | [Java](https://github.com/eocode?tab=repositories&q=software-engineering+java&type=&language=) | [Dart](https://github.com/eocode?tab=repositories&q=software-engineering+dart&type=&language=)
 * 🐍[Data Projects](https://github.com/eocode?tab=repositories&q=data-science&type=&language=)
 * ☕️[Codes](https://github.com/eocode?tab=repositories&q=challenge&type=&language=)
 * 🍀[Ocio](https://github.com/eocode?tab=repositories&q=ocio&type=&language=)
