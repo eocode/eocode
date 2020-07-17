@@ -9,7 +9,7 @@
 #### Some projects and code links
 
 * 💻Software Engineer projects. [Python](https://github.com/eocode?tab=repositories&q=software-engineering+python&type=&language=) | [JS](https://github.com/eocode?tab=repositories&q=software-engineering+js&type=&language=)
-* 🐍[Data Projects](https://github.com/eocode?tab=repositories&q=python+data-science&type=&language=)
+* 🐍[Data Projects](https://github.com/eocode?tab=repositories&q=data-science&type=&language=)
 * ☕️[Codes](https://github.com/eocode?tab=repositories&q=challenge&type=&language=)
 * 📴 Apps
 
