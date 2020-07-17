@@ -1,4 +1,4 @@
-### Hi there 🐍
+### ¡Hello World! 🐍
 
 🌱 I’m currently learning and practice about Python and Machine Learning
 👯 I’m looking to collaborate on interesting projects
