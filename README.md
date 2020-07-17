@@ -14,4 +14,4 @@
 * ☕️[Codes](https://github.com/eocode?tab=repositories&q=challenge&type=&language=)
 * 🍀[Ocio](https://github.com/eocode?tab=repositories&q=ocio&type=&language=)
 
-See my featured work here! 👇
+See my featured contributions here! 👇
