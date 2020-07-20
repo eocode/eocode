@@ -1,4 +1,4 @@
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](img/cover.webp)
+![Hi 👋, I'm Elias, A passionate python developer 👨‍💻 from Mexico, CDMX](https://github.com/eocode/eocode/raw/master/img/cover.webp)
 
 
 * 🐍 I’m currently practice about Python and Machine Learning
