@@ -1,4 +1,4 @@
-![Hi 👋, I'm Elias, A passionate python developer 👨‍💻 from Mexico, CDMX](https://github.com/eocode/eocode/raw/master/img/cover4.webp)
+![Hi 👋, I'm Elias, A passionate python developer 👨‍💻 from Mexico, CDMX](https://github.com/eocode/eocode/raw/master/img/cover5.webp)
 
 
 * 🐍 I’m currently practice about Python and Machine Learning
