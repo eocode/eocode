@@ -9,7 +9,7 @@
 * 👯 I’m looking to collaborate on interesting projects
 <div align="center">
 😸 <a href="https://gitlab.com/teamspartans"  target="__blank">GitLab Projects</a> | ❤️ <a href="https://eliasojedamedina.com/"  target="__blank">Personal Website</a>
-</div> 💡 <a href="https://activandoideas.com/"  target="__blank">Activando Ideas</a>
+💡 <a href="https://activandoideas.com/"  target="__blank">Activando Ideas</a>
 </div>
 
 #### Some projects and code links
