@@ -8,7 +8,7 @@
 * 🐍 I’m currently develop in Python and learn about Machine Learning
 * 👯 I’m looking to collaborate on interesting projects
 <div align="center">
-😸 <a href="https://gitlab.com/teamspartans"  target="__blank">GitLab Projects</a> | ❤️ <a href="https://eliasojedamedina.com/"  target="__blank">Personal Website</a>
+😸 <a href="https://gitlab.com/users/eocode/contributed"  target="__blank">GitLab Projects</a> | ❤️ <a href="https://eliasojedamedina.com/"  target="__blank">Personal Website</a>
 💡 <a href="https://activandoideas.com/"  target="__blank">Activando Ideas</a>
 </div>
 
